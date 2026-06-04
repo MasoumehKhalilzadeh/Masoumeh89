@@ -79,4 +79,4 @@ Complex SQL analysis (joins, window functions, CTEs) on global COVID-19 data com
 
 ---
 
-*Currently open to Senior Data Scientist roles in the Bay Area.*
+*Currently open to Data Scientist roles in the Bay Area.*
