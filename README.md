@@ -74,7 +74,7 @@ Complex SQL analysis (joins, window functions, CTEs) on global COVID-19 data com
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/masoumeh-khalilzadeh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/masoumehkhalilzadeh])
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:m.khalilzadeh89@gmail.com)
 
 ---
