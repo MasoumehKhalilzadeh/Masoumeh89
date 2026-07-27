@@ -1,8 +1,8 @@
 # Hi, I'm Masoumeh 👋
 
-**Data Scientist & Statistical Analyst** based in San Jose, CA  
+**Data Scientist & Statistical Analyst** based in Bay Area, CA  
 Research Associate @ Institutional Research & Strategic Analytics (IRSA), San Jose State University  
-M.Sc. Mathematics · M.Sc. Statistics · 8+ years of experience
+M.Sc. Mathematics · M.Sc. Statistics · 5+ years of experience
 
 ---
 
